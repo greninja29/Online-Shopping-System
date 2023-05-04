@@ -1,0 +1,84 @@
+{
+  "itemsImages": [
+    {
+      "name": "Apple",
+      "image": "https://www.freepngimg.com/thumb/apple/7-2-apple-fruit-png.png"
+    },
+    {
+      "name": "Orange",
+      "image": "https://www.freepngimg.com/thumb/orange/34-orange-png-image-download.png"
+    },    
+    {
+      "name": "Banana",
+      "image": "https://www.freepngimg.com/thumb/banana/22-banana-png-image.png"
+    },
+    {
+      "name": "Grapes",
+      "image": "https://www.freepngimg.com/thumb/grapes/36616-3-green-grapes.png"
+    },
+    {
+      "name": "Pineapple",
+      "image": "https://www.freepngimg.com/thumb/pineapple/5-pineapple-png-image-download.png"
+    },
+    {
+      "name": "strawberry",
+      "image": "https://www.freepngimg.com/thumb/strawberry/23410-4-strawberry-photo.png"
+    },
+    {
+      "name": "guava",
+      "image": "https://www.freepngimg.com/thumb/guava/156026-pink-guava-hq-image-free.png"
+    },
+    {
+      "name": "mango",
+      "image": "https://www.freepngimg.com/thumb/mango/9-2-mango-transparent.png"
+    },
+    {
+      "name": "Cabbage",
+      "image": "https://www.freepngimg.com/thumb/categories/2970.png"
+    },
+    {
+      "name": "Capsicum",
+      "image": "https://www.nicepng.com/png/detail/52-525615_green-bell-pepper-png-green-capsicum-png.png"
+    },
+    {
+      "name": "Garlic",
+      "image": "https://www.freepngimg.com/thumb/garlic/2-2-garlic-transparent-thumb.png"
+    },
+    {
+      "name": "Beetroot",
+      "image": "https://pngimg.com/uploads/beet/beet_PNG28.png"
+    },
+    {
+      "name": "Tomato",
+      "image": "https://www.freepngimg.com/thumb/categories/2985.png",
+      "quantity": "One Unit"
+
+    },
+    {
+      "name": "Celeriac",
+      "image": "https://w7.pngwing.com/pngs/252/146/png-transparent-celeriac-leaf-vegetable-food-celery-herbes-leaf-vegetable-food-plant-stem-thumbnail.png"
+    },
+    {
+      "name": "Carrot",
+      "image": "https://www.freepngimg.com/thumb/categories/2971.png"
+    },
+    {
+      "name": "Onion",
+      "image": "https://www.freepngimg.com/thumb/onion/10-red-onion-png-image-thumb.png"
+    },
+    {
+      "name": "Potato",
+      "image": "https://www.freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png"
+    },
+
+    {
+      "name": "dorito",
+      "image": "https://www.freepngimg.com/thumb/doritos/6-2-doritos-png-clipart.png"
+    },
+
+    {
+      "name": "jacket",
+      "image": "https://www.freepngimg.com/thumb/jacket/37126-9-jacket-transparent-image.png"
+    }
+  ]
+}
